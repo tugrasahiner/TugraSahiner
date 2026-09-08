@@ -14,16 +14,15 @@ I founded [WalkOVR](https://www.walkovr.com/), a VR wearable startup where I wor
 
 I later returned to product leadership, working across mobile gaming and loyalty platforms. Today, I use AI tools to build on this experience, test ideas, and explore new approaches to product decision-making.
 
-My work has consistently focused on the relationship between technical systems and user behavior, from motion-tr Dienstleistungen BEL? 
- lebilir. tracking hardware and gaming economies to data-informed product decisions.
+My work has consistently focused on the relationship between technical systems and user behavior, from motion-tracking hardware and gaming economies to data-informed product decisions.
 
 ## What you'll find here
 
-This profile is a portfolio of projects that apply AI capabilities to product problems I have encountered in practice. Each project includes clear problem framing, documentation, and working implementations where appropriate.
+This profile is a portfolio of projects that apply AI capabilities to product problems I have encountered in practice. 
 
 ## Currently exploring
 
-- AI-assisted product analysis
+- AI-assisted product analysis and decision frameworks
 - Rapid prototyping with AI tools
 - Product decision and simulation tools
 - Connecting AI with business rules and product workflows
@@ -31,7 +30,7 @@ This profile is a portfolio of projects that apply AI capabilities to product pr
 ## Areas I can help with
 
 - Product strategy
-- Product and business questions within gaming and loyalty
+- Product and business questions within gaming and loyalty, specifically reward apps
 - Building hardware, VR, and wearable products from the ground up
 - Applying AI tools within product organizations
 - Lessons from running a hardware startup through the COVID-19 period
