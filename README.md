@@ -1,32 +1,41 @@
-# Hi, I'm Tuğra 👋
+# Hi, I'm Tuğra
 
-**CPO & founder. Building AI product experiments — reward optimization, predictive models, product intelligence tools.**
+**Founder and product leader with 15 years of product management experience, exploring how AI can support better product decisions.**
 
----
+## What I'm building
 
-### 🔭 What I'm building
+I build product experiments using existing AI capabilities. My current work focuses on areas such as churn, revenue forecasting, and budget-constrained decision simulations, with the aim of turning data into practical insights that teams can use to make decisions.
 
-AI-driven product tools that sit at the intersection of product strategy and machine learning. Current focus: churn predictions, revenue modeling, and budget-constrained policy simulation. The goal isn't models for their own sake — it's closing the gap between what data produces and what product teams actually need to make decisions.
+## Background
 
-### 🧭 Background
+I studied electronics engineering at Istanbul Technical University and the University of Bologna.
 
-Electronic engineer by training (ITU, Università di Bologna). Founded a VR wearable startup ([WalkOVR](https://www.walkovr.com/)) — designed the hardware, ran a Kickstarter, shipped to 50+ countries. Returned to product leadership as CPO in mobile gaming and loyalty platforms. Now bridging 15 years of product thinking with hands-on AI/ML work.
+I founded [WalkOVR](https://www.walkovr.com/), a VR wearable startup where I worked on hardware development, ran a Kickstarter campaign, and shipped our products to more than 50 countries.
 
-**What connects it all:** I've always been drawn to the space where technical systems meet real user behavior — whether that's motion-tracking hardware, play-and-earn economies, or ML-powered product decisions.
+I later returned to product leadership, working across mobile gaming and loyalty platforms. Today, I use AI tools to build on this experience, test ideas, and explore new approaches to product decision-making.
 
-### 📂 What you'll find here
+My work has consistently focused on the relationship between technical systems and user behavior, from motion-tr Dienstleistungen BEL? 
+ lebilir. tracking hardware and gaming economies to data-informed product decisions.
 
-This is a deliberate portfolio, not a code dump. Each project is built to demonstrate how AI solves real product problems — with clear problem framing, production-quality documentation, and working endpoints where it makes sense.
-Every project starts from a real problem I've encountered as a product leader.
+## What you'll find here
 
-### 🌱 Currently exploring
+This profile is a portfolio of projects that apply AI capabilities to product problems I have encountered in practice. Each project includes clear problem framing, documentation, and working implementations where appropriate.
 
-ML deployment patterns (FastAPI, MLOps fundamentals), predictive LTV, and the product decision layer between model output and business logic fully automated.
+## Currently exploring
 
-### 💬 Ask me about
+- AI-assisted product analysis
+- Rapid prototyping with AI tools
+- Product decision and simulation tools
+- Connecting AI with business rules and product workflows
 
-Product strategy for loyalty & gaming platforms, building hardware products from zero, surviving a hardware startup through Covid, VR/wearable product development, or how a CPO thinks about integrating AI into product orgs.
+## Areas I can help with
 
-### 📫 Find me elsewhere
+- Product strategy
+- Product and business questions within gaming and loyalty
+- Building hardware, VR, and wearable products from the ground up
+- Applying AI tools within product organizations
+- Lessons from running a hardware startup through the COVID-19 period
 
-🌐 [tugrasahiner.com](https://tugrasahiner.com) · 💼 [LinkedIn](https://linkedin.com/in/tugrasahiner)
+## Links
+
+[Website](https://tugrasahiner.com/) · [LinkedIn](https://linkedin.com/in/tugrasahiner)
